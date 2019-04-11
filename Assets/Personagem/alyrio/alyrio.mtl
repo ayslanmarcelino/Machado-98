@@ -1,0 +1,104 @@
+# Exported from Fuse 2017.1.0
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d alyrio_Bottom_Opacity.png
+map_Kd alyrio_Bottom_Diffuse.png
+adobe_map_normal alyrio_Bottom_Normal.png
+map_Ks alyrio_Bottom_Specular.png
+adobe_map_shininess alyrio_Bottom_Gloss.png
+
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d alyrio_Shoes_Opacity.png
+map_Kd alyrio_Shoes_Diffuse.png
+adobe_map_normal alyrio_Shoes_Normal.png
+map_Ks alyrio_Shoes_Specular.png
+adobe_map_shininess alyrio_Shoes_Gloss.png
+
+newmtl Hair
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d alyrio_Hair_Opacity.png
+map_Kd alyrio_Hair_Diffuse.png
+adobe_map_normal alyrio_Hair_Normal.png
+map_Ks alyrio_Hair_Specular.png
+adobe_map_shininess alyrio_Hair_Gloss.png
+
+newmtl Top
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d alyrio_Top_Opacity.png
+map_Kd alyrio_Top_Diffuse.png
+adobe_map_normal alyrio_Top_Normal.png
+map_Ks alyrio_Top_Specular.png
+adobe_map_shininess alyrio_Top_Gloss.png
+
+newmtl Eyewear
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d alyrio_Eyewear_Opacity.png
+map_Kd alyrio_Eyewear_Diffuse.png
+adobe_map_normal alyrio_Eyewear_Normal.png
+map_Ks alyrio_Eyewear_Specular.png
+adobe_map_shininess alyrio_Eyewear_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d alyrio_Body_Opacity.png
+map_Kd alyrio_Body_Diffuse.png
+adobe_map_normal alyrio_Body_Normal.png
+map_Ks alyrio_Body_Specular.png
+adobe_map_shininess alyrio_Body_Gloss.png
+
