@@ -531,7 +531,7 @@ GameObject:
   - component: {fileID: 726900149}
   - component: {fileID: 726900148}
   m_Layer: 5
-  m_Name: ButtonAjustes
+  m_Name: ButtonComoJogar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -554,8 +554,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.7000184, y: 0.69999695}
-  m_SizeDelta: {x: 387.9, y: 110}
+  m_AnchoredPosition: {x: -2.3, y: -0}
+  m_SizeDelta: {x: 449.6, y: 111.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &726900148
 MonoBehaviour:
@@ -1141,7 +1141,7 @@ GameObject:
   - component: {fileID: 1432641442}
   - component: {fileID: 1432641441}
   m_Layer: 5
-  m_Name: textAjustes
+  m_Name: textComoJogar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1186,7 +1186,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: AJUSTES
+  m_text: COMO JOGAR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -1215,8 +1215,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 75
-  m_fontSizeBase: 75
+  m_fontSize: 66
+  m_fontSizeBase: 66
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1233,7 +1233,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -1253,13 +1253,13 @@ MonoBehaviour:
   m_firstVisibleCharacter: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -7.8177185, y: 69.45967, z: -176.7876, w: -107.374756}
+  m_margin: {x: -48.8461, y: 69.45967, z: -207.17328, w: -107.374756}
   m_textInfo:
     textComponent: {fileID: 0}
-    characterCount: 7
+    characterCount: 10
     spriteCount: 0
-    spaceCount: 0
-    wordCount: 1
+    spaceCount: 1
+    wordCount: 2
     linkCount: 0
     lineCount: 1
     pageCount: 1
